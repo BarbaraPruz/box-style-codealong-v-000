@@ -220,7 +220,6 @@ header {
 }
 
 #navbar nav a {
-  background: blue;
   display: inline-block;
   width: 16.667%;
   margin: 0;
@@ -233,7 +232,7 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 #navbar nav a:selected {
-  background: #333;
+  background: black;
   color: white;
 }
 
