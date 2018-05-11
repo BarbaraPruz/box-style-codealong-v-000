@@ -216,11 +216,11 @@ header {
   text-align: center;
 }
 #navbar nav {
-  background: blue;
   border-left: 1px solid #ccc;
 }
 
 #navbar nav a {
+  background: blue;
   display: inline-block;
   width: 16.667%;
   margin: 0;
