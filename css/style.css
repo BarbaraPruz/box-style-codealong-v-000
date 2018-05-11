@@ -232,7 +232,7 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 #navbar nav a.selected {
-  background: #ccc;
+  background: #333;
   color: white;
 }
 #navbar nav a.hover {
@@ -327,7 +327,9 @@ section {
 }
 
 /*////////// DETAILS //////////*/
-
+#details {
+  border-top: 1px solid white;
+}
 
 
 #details div {
