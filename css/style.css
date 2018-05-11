@@ -231,8 +231,8 @@ header {
   text-decoration: none;
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
-#navbar nav a:selected {
-  background: black;
+#navbar nav a::selected {
+  background: #ccc;
   color: white;
 }
 
